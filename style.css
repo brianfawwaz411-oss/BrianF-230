@@ -1,0 +1,65 @@
+
+a.navbar-brand {
+    background: url(https://unesa.ac.id/assets/switcher/images/logo.png) no-repeat scroll left top rgba(0, 0, 0, 0);
+}
+div#navbar-collapse-1.navbar-collapse.collapse.navbar-right{
+    margin-left: 250px;
+}  
+div.yamm-content{
+    max-height: 400px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+a {
+    color: #428bca;
+    text-decoration: none;
+    background: transparent;
+}
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:active { text-decoration: underline; }
+
+
+*/
+.hero-text-unesa h1 {
+    font-size: 6rem; 
+    color: #222;
+    margin-bottom: 10px;
+    line-height: 1;
+    font-weight: 700;
+    font-family: 'Exo', sans-serif; 
+}
+.hero-text-unesa .subtitle {
+    font-size: 1.75rem;
+    font-weight: 400;
+    margin-bottom: 15px;
+    font-family: 'Lato', sans-serif; 
+}
+.hero-text-unesa .roles {
+    font-size: 1.25rem;
+    color: #555;
+    font-weight: 500;
+    font-family: 'Lato', sans-serif; 
+}
+
+
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+
+.section-placeholder {
+     padding: 100px 0; 
+     border-bottom: 1px solid #eee;
+}
+.section-placeholder.grey {
+    background-color: #f9f9f9; 
+}
+
+.section-placeholder .general-title {
+    margin-bottom: 40px;
+}
